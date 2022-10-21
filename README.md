@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Michał. I'm 24 years old and I'm NEW in Java!
+- 👀 My interests are, of course, IT and moto cross, boxing, music and games.
+- 🌱 I’m currently learning in InfoShare Academy for Java developer.
+- 📫 email: michalek.m21@gmail.com
